@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "928800433651",
+    "firebase_url": "https://codets-6e4e2-default-rtdb.firebaseio.com",
+    "project_id": "codets-6e4e2",
+    "storage_bucket": "codets-6e4e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928800433651:android:06058e0c1c585f7a9c1e86",
+        "android_client_info": {
+          "package_name": "com.example.wil_flutter_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhIoUVwwRTFxGrUHe4Ed9E-VuwrPjb-5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
